@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { MessageCircle, ExternalLink, Globe } from "lucide-react";
 import { useState } from "react";
-import { useLanguage } from "@/contexts/LanguageContext";
+import { useLanguage } from "../contexts/LanguageContext";
 import AudioPlayer from "@/components/AudioPlayer";
 
 /**
