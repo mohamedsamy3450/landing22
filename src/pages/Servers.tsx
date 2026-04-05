@@ -1,4 +1,4 @@
-import { useLanguage } from "@/contexts/LanguageContext";
+import { useLanguage } from "../contexts/LanguageContext";
 import { ExternalLink, Users, Globe } from "lucide-react";
 import { useState } from "react";
 
